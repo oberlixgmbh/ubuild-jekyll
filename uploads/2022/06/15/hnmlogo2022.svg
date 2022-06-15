@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="224.91701"
+   height="113.38583"
+   viewBox="0 0 59.509291 29.999998"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="HnMLogo2022.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.2755417"
+     inkscape:cx="114.79018"
+     inkscape:cy="52.05246"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="41"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-267)">
+    <g
+       id="g3664"
+       transform="matrix(0.08023557,0,0,-0.08023557,0.01399851,267.02934)"
+       style="display:inline;fill:#ab171d;fill-opacity:1">
+      <path
+         d="m 0,0 v -373.899 h 124.354 v 124.354 l 62.177,-41.451 62.177,41.451 V -373.899 H 373.062 V 0 H 248.708 V -124.354 H 124.354 V 0 Z"
+         style="fill:#ab171d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3666"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g875"
+       transform="matrix(1.0097901,0,0,1,0.87190692,-0.16651105)">
+      <text
+         id="text829"
+         y="296.30966"
+         x="31.077236"
+         style="font-style:normal;font-weight:normal;font-size:4.58611012px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28890038px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.26458299"
+           y="296.30966"
+           x="31.077236"
+           id="tspan827"
+           sodipodi:role="line">Make </tspan></text>
+      <text
+         id="text829-9"
+         y="275.46274"
+         x="30.911873"
+         style="font-style:normal;font-weight:normal;font-size:4.58611012px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28890038px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.26458299"
+           y="275.46274"
+           x="30.911873"
+           id="tspan827-5"
+           sodipodi:role="line">Hack </tspan></text>
+      <text
+         id="text829-9-0"
+         y="285.78461"
+         x="31.062685"
+         style="font-style:normal;font-weight:normal;font-size:4.58611012px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458299"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28890038px;font-family:Coolvetica;-inkscape-font-specification:Coolvetica;fill:#ffffff;fill-opacity:1;stroke-width:0.26458299"
+           y="285.78461"
+           x="31.062685"
+           id="tspan827-5-9"
+           sodipodi:role="line">&amp;2022</tspan></text>
+    </g>
+  </g>
+</svg>
